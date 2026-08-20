@@ -18,20 +18,6 @@
 **Входные данные**: Содержит данные для авторизации (username и password).  
 **Возвращаемое значение**: Возвращает объект `JwtAuthenticationResponse`, содержащий JWT-токен для авторизованного доступа к защищенным ресурсам.
 
-## Пример использования
-
-### Регистрация
-
-![Регистрация](https://github.com/pentryyy/horoscope_prediction/blob/main/images/sign-up.png)
-
-### Авторизация 
-
-![Авторизация](https://github.com/pentryyy/horoscope_prediction/blob/main/images/sign-in.png)
-
-# UserController
-
-Доступно толоько для роли ADMIN.
-
 ## Эндпоинты
 
 ### Получение всех пользователей
